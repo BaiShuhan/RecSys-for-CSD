@@ -8,7 +8,6 @@
 
 ## Architecture
 
-<img src="[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/architecture.png)" width="100px">
 ![image](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/architecture.png)
 
 ## Control Flow
