@@ -12,4 +12,4 @@
 
 ## Control Flow
 
-![image](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/control%20flow.png)
+![image](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/control_flow.png)
