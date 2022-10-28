@@ -8,8 +8,8 @@
 
 ## Architecture
 
-![image](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/architecture.png)
+![image](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/architecture.png =100x200)
 
 ## Control Flow
 
-![image](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/control%20flow.png)
+![image](https://github.com/BaiShuhan/RecSys-for-CSD/blob/main/control%20flow.png =100x200)
